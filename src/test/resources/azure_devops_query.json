@@ -1,0 +1,3 @@
+{
+  "query": "SELECT [System.Id], [System.Title], [System.Description], [System.State], [Microsoft.VSTS.Common.AcceptanceCriteria] FROM workitems WHERE [System.WorkItemType] = 'Requirement' AND [System.TeamProject] = @project ORDER BY [System.Id]"
+}

@@ -1,0 +1,41 @@
+# Python
+venv*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+/target/
+/test-output/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test results
+/test-results/
+
+# Logs
+*.log
+
+# Maven
+.mvn/
+
+# Node
+node_modules/
+
+# CrewAI
+crewai_automation.egg-info/

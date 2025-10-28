@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Crew AI Test Suite">
+    <test name="Automation Tests">
+        <packages>
+            <package name="com.crewai.tests.*"/>
+        </packages>
+    </test>
+</suite>
